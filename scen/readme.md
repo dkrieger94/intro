@@ -1,8 +1,9 @@
-## Emissions for 1700-2019 are historical and therefore equal across all files.
-## Emissions starting in 2020 are scenario-specific.
+## Note!
+Emissions for 1700-2019 are historical and therefore equal across all files.
+Emissions starting in 2020 are scenario-specific.
 
 
-### Sources ###
+## Sources
 Data for the SSP scenarios (2020 and later):
 
 Rogelj, J., Popp, A., Calvin, K.V., Luderer, G., Emmerling, J., Gernaat, D., Fujimori, S., Strefler, J., Hasegawa, T., Marangoni, G., Krey, V., Kriegler, E., Riahi, K., van Vuuren, D.P., Doelman, J., Drouet, L., Edmonds, J., Fricko, O., Harmsen, M., Havlik, P., Humpenöder, F., Stehfest, E., Tavoni, M., Scenarios towards limiting global mean temperature increase below 1.5 °C. Nature Climate Change 8, 2018, 325-332.
