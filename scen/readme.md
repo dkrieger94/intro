@@ -1,5 +1,5 @@
 ## Note!
-Emissions for 1700-2019 are historical and therefore equal across all files.
+Emissions for 1750-2019 are historical and therefore equal across all files.
 Emissions starting in 2020 are scenario-specific.
 
 
