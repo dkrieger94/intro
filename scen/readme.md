@@ -15,6 +15,8 @@ Gidden, M. J., Riahi, K., Smith, S. J., Fujimori, S., Luderer, G., Kriegler, E.,
 Global emissions pathways under different socioeconomic scenarios for use in CMIP6: a dataset of harmonized emissions trajectories through the end of the century, Geosci. Model Dev. Dev., 12, 1443-1475,
 DOI:10.5194/gmd-12-1443-2019, 2019. 
 
+accessible at https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=20 (account needed!)
+
 
 ### Data for the historical emissions (up to 2019):
 
